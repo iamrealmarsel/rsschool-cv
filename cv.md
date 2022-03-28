@@ -2,8 +2,9 @@
 
 ## 👨‍🦲 I am
 
-**Marsel Atamuratov**  
-Future Junior Frontend Developer 🙂
+### Marsel Atamuratov
+
+Future Junior Frontend Developer 😃
 
 ## 📮 Contact
 
@@ -14,7 +15,7 @@ Future Junior Frontend Developer 🙂
 
 ## ✍️ About me
 
-**Briefly about work experience and training in general (in chronological order)**
+**Briefly about work experience and training in general (in chronological order):**
 
 - have completed courses in html and css
 - worked as an html-coder in a marketing agency for a year
@@ -23,18 +24,18 @@ Future Junior Frontend Developer 🙂
 
 **Briefly about development plan**
 
-Primary Goals
+Primary Goals:
 
 - employment as a Junior Frontend Developer
 - basic learning backend development in order to understand full stack development
 - learning English to be able to speak more than this annoying phrase "London is the capital of Great Britain" 😅
 
-Secondary goals
+Secondary goals:
 
 - learning Three.js library and Blender program to be able to do like Bruno Simon, very inspired by his creation 😍
 - learning UX/UI design
 
-Non-programming goals
+Non-programming goals:
 
 - learn how to play Go and maybe even to get 9 dan rank! ⚪️⚫️
 - grow bonsai 🌳
@@ -74,7 +75,8 @@ Three conditions must be met for a valid experiment:
 - Float parameter "h" in meters must be greater than 0
 - Float parameter "bounce" must be greater than 0 and less than 1
 - Float parameter "window" must be less than h.
-  If all three conditions above are fulfilled, return a positive integer, otherwise return -1.
+
+If all three conditions above are fulfilled, return a positive integer, otherwise return -1.
 
 Note:
 The ball can only be seen if the height of the rebounding ball is strictly greater than the window parameter.
@@ -127,9 +129,9 @@ Educational Institution: HTML Academy
 [React. Development of Complex Front-end Applications](https://assets.htmlacademy.ru/certificates/intensive/171/151240.pdf)
 
 Educational Institution: RS School 😍  
-In progress
+In progress...
 
 ## 🗺 Languages
 
-Russian: native  
-English: А1 || А2 🤷‍♀️
+🇷🇺 : native  
+🇺🇸 : А1 || А2 🤷‍♀️
