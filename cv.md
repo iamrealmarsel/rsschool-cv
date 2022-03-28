@@ -4,7 +4,7 @@
 
 ### Marsel Atamuratov
 
-Future Junior Frontend Developer 😃
+Future Junior Frontend Developer 🤠
 
 ## 📮 Contact
 
@@ -112,7 +112,7 @@ Used skills: React, React Router v5, Redux, Webpack
 Used skills: Create React App, React, React Router v5, Context API
 
 [**Portfolio**](https://github.com/iamrealmarsel/portfolio)  
-Used skills: Create React App, React, React Router v6, Redux
+Used skills: Create React App, React, React Router v6, Context API
 
 ## 🎓 Education
 
