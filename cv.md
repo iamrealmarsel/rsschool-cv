@@ -105,15 +105,15 @@ function bouncingBall(h, bounce, window) {
 
 **Training Projects**
 
-[**What To Watch**](https://iamrealmarsel.github.io/151240-what-to-watch-5/public) ||
+[**What To Watch**](https://iamrealmarsel.github.io/151240-what-to-watch-5/public) |
 [**Source Code**](https://github.com/iamrealmarsel/151240-what-to-watch-5)  
 Used skills: React, React Router v5, Redux, Webpack
 
-[**React Sneakers**](https://iamrealmarsel.github.io/projects/spa/react-sneakers/build) ||
+[**React Sneakers**](https://iamrealmarsel.github.io/projects/spa/react-sneakers/build) |
 [**Source Code**](https://github.com/iamrealmarsel/projects/tree/main/spa/react-sneakers)  
 Used skills: Create React App, React, React Router v5, Context API
 
-[**Portfolio**](https://marsel.one) ||
+[**Portfolio**](https://marsel.one) |
 [**Source Code**](https://github.com/iamrealmarsel/portfolio)  
 Used skills: Create React App, React, React Router v6, Context API
 
@@ -137,4 +137,4 @@ In progress...
 ## 🗺 Languages
 
 🇷🇺 : native  
-🇺🇸 : А1 || А2 🤷‍♀️
+🇺🇸 : А1
