@@ -103,7 +103,17 @@ function bouncingBall(h, bounce, window) {
 
 ## 🔬 Experience
 
-**Training Projects**
+I have completed some courses in html and css, javascript and react.  
+I worked as an html-coder in a marketing agency for one year.
+
+**Portfolio site**  
+Here are collected educational projects on programming and commercial projects on layout
+
+[**Portfolio**](https://marsel.one) |
+[**Source Code**](https://github.com/iamrealmarsel/portfolio)  
+Used skills: Create React App, React, React Router v6, Context API
+
+**Some training projects from portfolio above**
 
 [**What To Watch**](https://iamrealmarsel.github.io/151240-what-to-watch-5/public) |
 [**Source Code**](https://github.com/iamrealmarsel/151240-what-to-watch-5)  
@@ -112,10 +122,6 @@ Used skills: React, React Router v5, Redux, Webpack
 [**React Sneakers**](https://iamrealmarsel.github.io/projects/spa/react-sneakers/build) |
 [**Source Code**](https://github.com/iamrealmarsel/projects/tree/main/spa/react-sneakers)  
 Used skills: Create React App, React, React Router v5, Context API
-
-[**Portfolio**](https://marsel.one) |
-[**Source Code**](https://github.com/iamrealmarsel/portfolio)  
-Used skills: Create React App, React, React Router v6, Context API
 
 ## 🎓 Education
 
