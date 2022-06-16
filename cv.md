@@ -8,7 +8,7 @@ Future Junior Frontend Developer 🤠
 
 ## 📮 Contact
 
-![discord](img/icon-discord.png) : Marsel (@iamrealmarsel)  
+![discord](img/icon-discord.png) : mars#7989  
 ![telegram](img/icon-telegram.png) : [iamrealmarsel](https://t.me/iamrealmarsel)  
 ![gmail](img/icon-gmail.png) : [iamrealmarsel@gmail.com](mailto:iamrealmarsel@gmail.com)  
 ![linkedin](img/icon-linkedin.png) : [iamrealmarsel](https://www.linkedin.com/in/iamrealmarsel)
