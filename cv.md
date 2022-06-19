@@ -4,7 +4,7 @@
 
 ### Marsel Atamuratov
 
-Future Junior Frontend Developer 🤠
+I am 35 y.o. and I am future Junior Frontend Developer 🤠
 
 ## 📮 Contact
 
@@ -47,12 +47,11 @@ Non-programming goals:
 | ---------------------- | ----- |
 | HTML, CSS, Sass, BEM   | ●●●●○ |
 | Javascript             | ●●○○○ |
-| React                  | ●●●○○ |
-| Redux                  | ●●○○○ |
+| React                  | ●●○○○ |
+| Redux                  | ●○○○○ |
 | Webpack                | ●○○○○ |
-| Gulp                   | ●●○○○ |
 | Git                    | ●●○○○ |
-| Adobe Photoshop, Figma | ●●●○○ |
+| Figma                  | ●●●○○ |
 | Tea drinking           | ●●●●● |
 
 To be honest, I don't know how to properly evaluate my skills
