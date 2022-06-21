@@ -4,7 +4,7 @@
 
 ### Marsel Atamuratov
 
-I am 35 y.o. and I am future Junior Frontend Developer 🤠
+Future Junior Frontend Developer 🤠
 
 ## 📮 Contact
 
@@ -14,6 +14,8 @@ I am 35 y.o. and I am future Junior Frontend Developer 🤠
 ![linkedin](img/icon-linkedin.png) : [iamrealmarsel](https://www.linkedin.com/in/iamrealmarsel)
 
 ## ✍️ About me
+
+I am 35 y.o., I was born in Tashkent, but I moved to Moscow a long time ago and live here to this day
 
 **Briefly about work experience and training in general (in chronological order):**
 
@@ -58,55 +60,24 @@ To be honest, I don't know how to properly evaluate my skills
 
 ## 🤖 Example code
 
-<details>
-<summary>Kata from Codewars: Bouncing Balls</summary>
-
-A child is playing with a ball on the nth floor of a tall building. The height of this floor, h, is known.
-
-He drops the ball out of the window. The ball bounces (for example), to two-thirds of its height (a bounce of 0.66).
-
-His mother looks out of a window 1.5 meters from the ground.
-
-How many times will the mother see the ball pass in front of her window (including when it's falling and bouncing?
-
-Three conditions must be met for a valid experiment:
-
-- Float parameter "h" in meters must be greater than 0
-- Float parameter "bounce" must be greater than 0 and less than 1
-- Float parameter "window" must be less than h.
-
-If all three conditions above are fulfilled, return a positive integer, otherwise return -1.
-
-Note:
-The ball can only be seen if the height of the rebounding ball is strictly greater than the window parameter.
-
-</details>
-
 ```javascript
-function bouncingBall(h, bounce, window) {
-  if (h > 0 && 1 > bounce && bounce > 0 && window < h) {
-    let res = h * bounce;
-    let i = 1;
-
-    while (res > window) {
-      i += 2;
-      res = res * bounce;
-    }
-
-    return i;
-  } else {
-    return -1;
-  }
-}
+Object.defineProperty(Person.prototype, 'name', {
+  set(name) {
+    [this.firstName, this.lastName] = name.split(' ');
+  },
+  get() {
+    return this.getName();
+  },
+});
 ```
 
 ## 🔬 Experience
 
-I have completed some courses in html and css, javascript and react.  
-I worked as an html-coder in a marketing agency for one year.
+I have completed some courses in html and css, javascript and react  
+I worked as an html-coder in a marketing agency for one year
 
 **Portfolio site**  
-Here are collected educational projects on programming and commercial projects on layout
+Here are collected educational projects on javascript programming and commercial projects on HTML coding
 
 [**Portfolio**](https://marsel.one) |
 [**Source Code**](https://github.com/iamrealmarsel/portfolio)  
