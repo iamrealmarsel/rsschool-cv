@@ -114,3 +114,11 @@ In progress...
 
 🇷🇺 : native  
 🇺🇸 : А1
+
+## 🎥 Self Introduction
+
+Warning! To save your sanity, please don't watch this! 🙈🙉
+
+[![Screen Shot 2022-06-21 at 5 53 34 PM copy 2](https://user-images.githubusercontent.com/20097612/174832237-bc483465-c970-4d53-9861-31cb5aa11508.png)](https://youtu.be/jfxiKXP-PEg)
+
+
