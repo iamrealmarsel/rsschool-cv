@@ -1,4 +1,4 @@
-<img src='img/photo_1000.jpg' width='500' alt='фото'>
+<img src='img/photo_1000.jpg' width='500' alt='photo'>
 
 ## 👨‍🦲 I am
 
@@ -117,8 +117,6 @@ In progress...
 
 ## 🎥 Self Introduction
 
-Warning! To save your sanity, please don't watch this! 🙈🙉
+⚠️ Warning! To save your sanity, please don't watch this! 🙈🙉
 
-[![Screen Shot 2022-06-21 at 5 53 34 PM copy 2](https://user-images.githubusercontent.com/20097612/174832237-bc483465-c970-4d53-9861-31cb5aa11508.png)](https://youtu.be/jfxiKXP-PEg)
-
-
+[<img src='https://user-images.githubusercontent.com/20097612/174832237-bc483465-c970-4d53-9861-31cb5aa11508.png' width='500' alt='thumbnail'>](https://youtu.be/jfxiKXP-PEg)
