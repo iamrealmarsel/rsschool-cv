@@ -83,15 +83,15 @@ Here are collected educational projects on javascript programming and commercial
 [**Source Code**](https://github.com/iamrealmarsel/portfolio)  
 Used skills: Create React App, React, React Router v6, Context API
 
-**Some training projects from portfolio above**
+**Some projects from RS School**
 
-[**What To Watch**](https://iamrealmarsel.github.io/151240-what-to-watch-5/public) |
-[**Source Code**](https://github.com/iamrealmarsel/151240-what-to-watch-5)  
-Used skills: React, React Router v5, Redux, Webpack
+[**Virtual Keyboard**](https://iamrealmarsel.github.io/virtual-keyboard/) |
+[**Source Code**](https://github.com/iamrealmarsel/virtual-keyboard/tree/development)  
+Used skills: vanilla Javascript
 
-[**React Sneakers**](https://iamrealmarsel.github.io/projects/spa/react-sneakers/build) |
-[**Source Code**](https://github.com/iamrealmarsel/projects/tree/main/spa/react-sneakers)  
-Used skills: Create React App, React, React Router v5, Context API
+[**CSS Mem Slider**](https://iamrealmarsel.github.io/cssMemSlider/cssMemSlider/) |
+[**Source Code**](https://github.com/iamrealmarsel/cssMemSlider/tree/gh-pages/cssMemSlider)  
+Used skills: only CSS! and without positioning
 
 ## 🎓 Education
 
